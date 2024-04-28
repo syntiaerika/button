@@ -9,7 +9,7 @@ export default function Counter() {
 
   return (
     <button onClick={handleClick}>
-      You pressed me {count} times
+      Klikol si na mňa {count}-krát!
     </button>
   );
 }
